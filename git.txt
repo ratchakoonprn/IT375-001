@@ -1,0 +1,11 @@
+git remote add origin https://github.com/ratchakoonprn/IT375-001.git
+git push -u origin master
+
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+git config --global user.email "ratchakoon.prn@outlook.com"
+git config --global user.name "ratchakoonprn"
+
+
