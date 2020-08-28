@@ -1,0 +1,15 @@
+ติดตั้ง Express ด้วยคำสั่ง
+npm install –g express –save หรือ
+npm install –g express-generator --save (กรณีที่ต้องการใช้คำสั่ง express ผ่าน command line)
+
+สร้างโปรเจค
+express simple_webapi(ชื่อโปรเจค)
+
+ติดตั้ง dependecies ซึ่งคือโปรแกรม หรือ ไลบรารี่ ต่างๆ ที่ Node.js ต้องใช้
+npm install
+
+เริ่มต้นโปรเจค
+npm init --yes 
+
+การติดตั้ง nodemon 
+npm i nodemon –g --save-dev
